@@ -1,4 +1,12 @@
-## Hi there 👋
+## Olá! 👋
+
+Sou **Cirurgião-Dentista, especialista em Periodontia** e **Professor Universitário no UNIPÊ**, com experiência em ensino, clínica e pesquisa em Odontologia.  
+
+Atualmente, iniciei uma jornada no campo da **Tecnologia aplicada à Saúde**, com foco no **desenvolvimento de soluções digitais para a Odontologia**.  
+Meu objetivo é unir a experiência clínica e acadêmica com inovação tecnológica, criando ferramentas que melhorem o cuidado em saúde e a experiência do paciente.  
+
+**Áreas de interesse:** Saúde Digital | Periodontia | Chatbots em Odontologia | Interação Homem-Máquina | Educação em Saúde  
+
 
 <!--
 **fabiogomes-cd/fabiogomes-cd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
